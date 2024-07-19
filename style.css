@@ -1,0 +1,407 @@
+
+    .pick{width:99.9%;height:40px;position: relative;margin-top: 0px;}
+.pick2{left:50px;width:80px;position: absolute;z-index: 1;margin-top: -45px;}
+li{list-style: none;margin-bottom: 20px;}
+.li1{position: absolute;margin-left: 300px;top: 10px;}
+.li2{position: absolute;margin-left: 380px;top:10px;color: gray;}
+.li3{position: absolute;margin-left: 480px;top:10px;color: grey;}
+.li4{position: absolute;margin-left: 540px;top:10px;color: grey;}
+.li5{position: absolute;margin-left: 610px;top:10px;color: grey;}
+.li6{position: absolute;margin-left: 680px;top:10px;color: grey;}
+.li7{position: absolute;margin-left: 790px;top:11px;height: 20px;width: 22px;}
+
+.png1 {
+    height: 600px;
+    width: 99.9%;
+    position: relative;
+
+}
+
+.border {
+    position: absolute;
+    top: 0PX;
+}
+
+div {
+    border: 2px solid white;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 200px;
+    background-color: white;
+}
+
+.p1 {
+    margin-left: 30PX;
+    position: absolute;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.p2 {
+    margin-left: 30px;
+    position: absolute;
+    font-size: 30px;
+    margin-top: 60px;
+}
+
+.p3 {
+    margin-left: 30px;
+    position: absolute;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+.p4 {
+    margin-left: 30px;
+    margin-top: 150px;
+    position: absolute;
+    font-size: 11px;
+}
+
+.p5 {
+    position: absolute;
+    border-radius: 8px;
+    margin-top: 200px;
+    margin-left: 30px;
+    color: white;
+    background-color: green;
+}
+
+.p6 {
+    position: absolute;
+    border-radius: 8px;
+    margin-top: 200px;
+    margin-left: 150px;
+    color: rgb(255, 255, 255);
+    background-color: green;
+}
+
+.bord {
+    border: 2px solid white;
+    position: absolute;
+    height: 70px;
+    width: 99%;
+    margin-top: 0px;
+    background-color: green;
+}
+
+.bord1 {
+    border: 2px solid white;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin-left: 640px;
+    margin-top: 30px;
+    border-radius: 12px;
+    background-color: white;
+}
+
+.bord2 {
+    border: 2px solid rgb(19, 19, 19);
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin-left: 610px;
+    margin-top: 30px;
+    border-radius: 12px;
+    background-color: black;
+}
+
+.bord3 {
+    border: 2px solid white;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin-left: 580px;
+    margin-top: 30px;
+    border-radius: 12px;
+    background-color: white;
+}
+
+.bord4 {
+    border: 2px solid white;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin-left: 550px;
+    margin-top: 30px;
+    border-radius: 12px;
+    background-color: white;
+}
+
+.bord5 {
+    border: 2px solid white;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin-left: 520px;
+    margin-top: 30px;
+    border-radius: 12px;
+    background-color: white;
+}
+
+#bord6 {
+    position: absolute;
+    margin-top: -50px;
+    font-size: 30px;
+    margin-left: 50PX;
+}
+
+.line {
+    margin-top: -50px;
+    position: absolute;
+    margin-left: 180px;
+    color: gray;
+}
+
+.p7 {
+    margin-top: -10px;
+    position: absolute;
+    font-size: 18px;
+    margin-left: 50px;
+}
+
+.bord7 { 
+    border: 2px solid green;
+    height: 320px;
+    width: 70px;
+  position:absolute;
+    margin-left: 40px;
+    background-color: green;margin-top: +70px;
+}
+
+.bord8 {
+    position: absolute;
+    height: 250px;
+    width: 320px;
+    margin-top: 108px;
+    margin-left: 90px;
+}
+
+.para {
+    margin-left: 430PX;
+    width: 100%;
+    margin-top: 200px;
+    font-size: 17px;
+}
+
+.p8 {
+    margin-left: 600px;
+    position: absolute;
+    height: 23px;
+    width: 100px;
+    margin-top: 40px;
+    color: white;
+    background-color: black;
+}
+
+.bord9 {
+    width: 98%;
+    height: 500px;
+    margin-left: 15px;
+    margin-top: 700px;
+    position: absolute;
+}
+
+.p9 {
+    position: absolute;
+    margin-top: 720px;
+    font-size: 30px;
+    margin-left: 300px;
+}
+
+.p10 {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 750px;
+}
+
+.icon1 {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 800px;
+}
+
+.p11 {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 850px;
+    font-size: 18px;
+    font-style: normal;
+    color: black;
+}
+
+.p12 {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 880px;
+    font-size: 13px;
+    font-style: normal;
+}
+
+.icon2 {
+    position: absolute;
+    margin-left: 540px;
+    margin-top: 800px;
+}
+
+.icon3 {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 800px;
+}
+
+.icon4 {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 1000px;
+}
+
+.icon5 {
+    position: absolute;
+    margin-left: 560px;
+    margin-top: 950px;
+}
+
+.icon6 {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 950px;
+}
+
+.p13 {
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 850px;
+    font-size: 18px;
+    font-style: normal;
+    color: black;
+}
+
+.p14 {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 850px;
+    font-size: 18px;
+    font-style: normal;
+    color: black;
+}
+
+.p15 {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 1010px;
+    font-size: 18px;
+    font-style: normal;
+    color: black;
+}
+
+.p16 {
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 1010px;
+    font-size: 18px;
+    font-style: normal;
+    color: black;
+}
+
+.p17 {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 1010px;
+    font-size: 18px;
+    font-style: normal;
+    color: black;
+}
+
+.p18 {
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 830px;font-size: 13px;
+}
+
+.p19 {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 830px;font-size: 13px;
+}
+
+.p20 {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 1040px;font-size: 13px;
+}
+
+.p21 {
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 1040px;font-size: 13px;
+}
+
+.p22 {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 1040px;
+    font-size: 13px;
+}
+.pick4{margin-top: 1200px;margin-left: 300px;width: 400px;height: 260px;}
+.p23{margin-left:730px;position: absolute;margin-top:-250px;font-size: 30px;}
+.p24{margin-left:730px;position: absolute;margin-top:-160px;font-size: 12px;}
+.p25{margin-left: 280px;margin-bottom: -120px;color:white;background-color: black;}
+.p26{margin-left: 400px;margin-top: 50px;font-size: 37px;}
+.pick5{margin-left:300px;width:800px;height: 300px;}
+.pick6{margin-left: 670px;margin-top: 110px;position: absolute;height: 50px;}
+.p27{margin-left: 600px;width:100px;color: white;background-color: black;margin-top: 10px;}
+.pick7{margin-left: 20px;width:99%;margin-top: 30px;}
+.p28{margin-top: -500px;color: white;margin-left: 230px;font-size: 24px;}
+.p29{color: white;margin-left: 230px;font-size: 15px;}
+.name{margin-left:230px;margin-top: 40px;height:30px;width:410px;}
+.num{margin-top:-250px;margin-left: 230px;height:30px;width:410px;position: absolute;}
+.numee{margin-top:-200px;margin-left: 230px;height:30px;width:410px;position: absolute;}
+.msg{margin-top:-160px;margin-left: 230px;height:70px;width:410px;position: absolute;}
+.snd{margin-left:230px ;margin-top: -90px;height: 30px;width: 80px;color: white;background-color: green;position: absolute;}
+.map{margin-left: 660px;margin-top:-33px;}
+.test{margin-left: 600px;font-size: 25px;}
+.major{margin-left: 483px;margin-TOP:-20px;font-size: 13px;}
+.jon{border:2px solid white;margin-top: -7px;margin-left:671px;width:400px;height: 200px;box-shadow: 6px 5px 20px 10px whitesmoke;}
+.jon2{border:2px solid white;margin-top: -7px;margin-left:255px;width:400px;height: 200px;box-shadow: 6px 5px 20px 10px whitesmoke;}
+.jonimo{margin-left: 20px;color:green;margin-top: 30px;}
+.lines{margin-left: 20px;margin-top: -30px;}
+.mark{margin-left: 20px;color:green;margin-top: 30px;}
+.lines1{margin-left: 20px;margin-top: -30px;}
+.there{margin-left: 20px;font-size: 12px;}
+.there1{margin-left: 20px;font-size: 12px;}
+.btn1{margin-left:600px;margin-top:270px;height: 20px;width:20px;border-radius: 80px;background-color: black;position: absolute;}
+.btn2{margin-left:630px;margin-top:270px;height: 20px;width:60px;border-radius: 9px;background-color: green;position: absolute;}
+.btn3{margin-left:700px;margin-top:270px; height: 20px; width:20px;border-radius: 80px;background-color: black;position: absolute;} 
+.lastbox{border:2px solid black; margin-left: 30px; margin-top: 300px;width:96.5%;background-color: black;height:360px;}
+#location{margin-top: 370px;color:gray;position: absolute;margin-left: 270px;}
+#loc1{margin-top: 370px;color:gray;position: absolute;margin-left: 290px;}
+#call{margin-top: 370px;color:gray;position: absolute;margin-left: 580px;}
+#call1{margin-top: 370px;color:gray;position: absolute;margin-left: 603px;}
+#come{margin-top: 370px;color:gray;position: absolute;margin-left: 950px;}
+#come1{margin-top: 370px;color:gray;position: absolute;margin-left: 970px;}
+#ab{margin-top: 430px;color: white;position: absolute;margin-left: 270px;}
+#ser{margin-top: 430px;color: white;position: absolute;margin-left: 520px;}
+#sub{margin-top: 430px;color: white;position: absolute;margin-left: 800px;}
+#ther1{margin-top: 460px;color: gray;position: absolute;margin-left: 270px;font-size: 10px;}
+#ther2{margin-top: 460px;color: gray;position: absolute;margin-left: 520px;font-size: 10px;}
+#ent{margin-top: 460px;position: absolute;margin-left: 800px;font-size: 10px;color: gray;}
+#subs{margin-top: 493px;position: absolute;margin-left: 800px;font-size: 10px;color: green;}
+#facebook{margin-top: 520px;position: absolute;margin-left: 800px;font-size: 10px;color: white;}
+#twitter{margin-top: 520px;position: absolute;margin-left: 820px;font-size: 10px;color: white;}
+#in{margin-top: 520px;position: absolute;margin-left: 840px;font-size: 10px;color: white;}
+#insta{margin-top: 520px;position: absolute;margin-left: 860px;font-size: 10px;color: white;}
+#youtub{margin-top: 520px;position: absolute;margin-left: 880px;font-size: 10px;color: white;}
+.last{margin-top:630px;color:gray;position: absolute;font-size: 10px;margin-left: 580px;}
+.q{margin-left: 350px;position: absolute;margin-top: 30px;}
+.q1{margin-left: 350px;position: absolute;margin-top: 30px;}
+
+
+
+
+
+
+
